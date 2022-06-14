@@ -73,7 +73,8 @@ body{
 }
 
 .profile-photo img{
-    height: 6rem;
+    height: 6.5rem;
+    width: 7.5rem;
 }
 
 .instagram-login{
