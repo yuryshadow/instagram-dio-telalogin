@@ -1,6 +1,7 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Instagram clone 
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
+Nesse projeto da dio juntamento com a professora foi feita atraǘes dos conceitos de flex-box a interface de login do Instagram! 
+
 
 ### Os requisitos são:
 
